@@ -1,6 +1,6 @@
 {
   "name": "postme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "very light wrapper over nodemailer to send quick emails via aws ses",
   "main": "index.js",
   "scripts": {
