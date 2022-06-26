@@ -1,0 +1,34 @@
+{
+  "name": "postme",
+  "version": "1.0.1",
+  "description": "very light wrapper over nodemailer to send quick emails via aws ses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekhunger/postme.git"
+  },
+  "keywords": [
+    "aws",
+    "ses",
+    "aws-sdk",
+    "aws-ses",
+    "nodemailer",
+    "email",
+    "sendmail",
+    "notification"
+  ],
+  "author": "geekhunger <hallo@geekhunger.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekhunger/postme/issues"
+  },
+  "homepage": "https://github.com/geekhunger/postme#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1162.0",
+    "nodemailer": "^6.7.5",
+    "type-approve": "^0.3.0"
+  }
+}
